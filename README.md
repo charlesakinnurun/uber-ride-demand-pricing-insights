@@ -1,4 +1,4 @@
-## Introduction
+<!-- ## Introduction
 The uber.csv file is a dataset containing information about ride-sharing trips. It has 150,000 entries and provides detailed data for each ride, which can be used to analyze various aspects of the business.
 
 Here's a breakdown of the key information included in the file:
@@ -401,3 +401,4 @@ plt.grid(axis="y",linestyle="--",alpha=0.7)
 plt.tight_layout()
 plt.show()
 ```
+-->
