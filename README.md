@@ -402,3 +402,16 @@ plt.tight_layout()
 plt.show()
 ```
 -->
+
+
+
+
+
+
+
+
+
+
+<h1 align="center">Uber Ride Demand Pricing Insights</h1>
+
+![uber-header](/assets/header.png)
